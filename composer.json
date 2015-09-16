@@ -3,7 +3,8 @@
     "description": "Tratis de uso general como un response, metodos magicos",
     "license": "MIT",
     "keywords": ["masnegocio", "trait"],
-    "authors": [
+    "minimum-stability": "dev"
+    ,"authors": [
         {
             "name": "Christian Hernandez",
             "email": "javierv31@gmail.com"
